@@ -1,0 +1,1 @@
+I don't own the csv files present in this repository. The rightful owner has posted them on [Kaggle](https://www.kaggle.com) [here](https://www.kaggle.com/datasets/shubhammeshram579/bank-customer-churn-prediction).
